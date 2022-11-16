@@ -9,4 +9,4 @@ A guide to examples of code.
 ### Large image
 ![Octocat](../portfolio/img/blog.gif)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![portrait](https://user-images.githubusercontent.com/6247448/202137468-2fe58e38-0a67-4bea-9140-fff54ee677a1.jpeg)
